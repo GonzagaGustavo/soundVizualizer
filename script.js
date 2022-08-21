@@ -7,6 +7,7 @@ let audioSource;
 let analyser;
 
 function play() {
+  console.log("oi")
   const audio = document.getElementById('audio1')
   audio.src = 'Konfident.mp3'
   const audioContext = new AudioContext();
