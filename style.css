@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+#play {
+    position: absolute;
+    background-color: red;
+    border: none;
+    padding: 1%;
+    border-radius: 4px;
+}
+#audio {
+    height: 99%;
+    width: 100%;
+    margin: 0;
+}
+#audio1 {
+    position: absolute;
+    top: 5%;
+    left: 40%;
+}
